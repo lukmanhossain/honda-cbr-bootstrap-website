@@ -7,3 +7,40 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.btn-cl{
+    color: #E76F51;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.col .img-fluid{
+    width: 100%;
+    height: auto;
+}
+.g-type{
+    filter: grayscale(100%);
+}
+.col img{
+    margin-top: 30px;
+    width: 149px;
+    height: 149px;
+}
+#faq img{
+    width: 370px;
+    height: 400px;
+}
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color: #db726086;
+}
+.author{
+    color: #23A6F0;
+}
+.footer{
+    color: #252B42;
+}
