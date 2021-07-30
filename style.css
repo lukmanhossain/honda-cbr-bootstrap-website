@@ -7,6 +7,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.bg-color{
+    background-color: #264653;
+}
 .btn-cl{
     color: #E76F51;
 }
@@ -16,8 +19,8 @@ body{
     justify-content: center;
     align-items: center;
 }
-.col .img-fluid{
-    width: 100%;
+.col .img-bike{
+    width: 250px;
     height: auto;
 }
 .g-type{
@@ -29,8 +32,8 @@ body{
     height: 149px;
 }
 #faq img{
-    width: 370px;
-    height: 400px;
+    width: 250px;
+    height: auto;
 }
 .fa-star.filled{
     color: #E77C40;
